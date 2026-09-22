@@ -4,7 +4,7 @@
 Designed and deployed a multi-site enterprise network simulation representing a primary Headquarters (HQ) and a remote Branch office connected via a dedicated WAN link. The design evaluates multi-tier L3 switching vs. router-based inter-VLAN routing trade-offs, dynamic link-state routing convergence, granular security segmentation via access control lists, and automated dynamic host configuration.
 
 ## 2. Topology Diagram
-![Network Topology](screenshots/topology)
+![Network Topology](screenshots/topology.png)
 
 ## 3. IP Addressing Plan
 | Segment | Network / Mask | Gateway | Description |
